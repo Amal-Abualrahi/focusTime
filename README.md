@@ -1,2 +1,2 @@
 # focusTime
-first react native app try.
+first react native app trial.
